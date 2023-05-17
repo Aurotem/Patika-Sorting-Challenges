@@ -17,9 +17,9 @@ print(f"Selection Sort yöntemi ile varılan sonuç: {numbers}")
 # 5. Aşama: [8, 11, 12, 16, 21, 22]
 
 # ----------- BINARY SEARCH --------------
-#                                        7
-#                                    5       8
-#                                  1       6    9
-#                                0    3  4
-#                                   2
+#                              7
+#                          5       8
+#                        1       6    9
+#                      0    3  4
+#                        2
 #
